@@ -125,4 +125,41 @@ ul {
 
 .auth {
     text-align: end;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    background-color: #3882f6;
+    margin: 5%;
+    margin-left: 22%;
+    margin-right: 22%;
+    border: 2px solid #3882f6;
+    border-radius: 15px;
+    padding: 50px;
+    color: white;
+    gap: 200px;
+}
+
+.b2 {
+    background-color: #3882f6;
+    padding: 3px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 10px;
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
 }
